@@ -24,4 +24,4 @@ Visual Analytics layouts of [BitQuery](http://bitquery.borke.net/) include:
 Presentation of [BitQuery](http://bitquery.borke.net/) at [Data Science, Statistics & Visualization Conference 2017, Lisbon, Portugal](http://iasc-isi.org/dssv2017/):
 
 - [Abstract](dssv2017_abstract.pdf): BitQuery - GitHub API driven and D3 based search engine for open source 
-- [Talk](dssv2017_talk): BitQuery - GitHub API driven and D3 based search engine for open source repositories
+- [Talk](dssv2017_talk.pdf): BitQuery - GitHub API driven and D3 based search engine for open source repositories
