@@ -15,9 +15,9 @@ The [BitQuery](http://bitquery.borke.net/) architecture consists of three abstra
 - D3-3D Visu layer, or BitQuery Visual Analytics application (VA-App) (**Visualization**)
 
 Visual Analytics layouts of [BitQuery](http://bitquery.borke.net/) include: 
-- [CRAN edition](http://bitquery.borke.net/) - visual exploration of the R universe, a massive collection of all R packages on GitHub including [CRAN](https://github.com/cran) and [Bioconductor](https://github.com/Bioconductor)
-- [Special edition](http://bitquery.borke.net/dssv/) - visual data mining of 4 different metadata types: YAML, DCF, JSON, Markdown
-- [GitHub edition](http://bitquery.borke.net/github/) - interactive visual knowledge discovery of top GitHub organizations
+- [CRAN edition](http://bitquery.de) - visual exploration of the R universe, a massive collection of all R packages on GitHub including [CRAN](https://github.com/cran) and [Bioconductor](https://github.com/Bioconductor)
+- [Special edition](http://bitquery.de/spec) - visual data mining of 4 different metadata types: YAML, DCF, JSON, Markdown
+- [GitHub edition](http://bitquery.de/github) - interactive visual knowledge discovery of top GitHub organizations
 
 ## Presentation of BitQuery at DDSV 2017
 
