@@ -27,3 +27,22 @@ Presentation of [BitQuery](http://bitquery.de) at [Data Science, Statistics & Vi
 
 - [Abstract](dssv2017_abstract.pdf): BitQuery - GitHub API driven and D3 based search engine for open source 
 - [Talk](dssv2017_talk.pdf): BitQuery - GitHub API driven and D3 based search engine for open source repositories
+
+
+## Citing BitQuery
+
+If you use BitQuery in your research or use it for visualizing your repositories on GitHub, please use the following BibTeX entry.
+
+```
+@online{BitQuery,
+    title = {{BitQuery: a GitHub API driven and D3 based search engine for open source repositories}},
+    author = {Lukas Borke and Svetlana Bykovskaya},
+    year = {2017},
+    url = {http://bitquery.de},
+    urldate = {2017-12-01},
+    NOTE = {Available at http://bitquery.de},
+}
+```
+
+If you would like do add new views with more repositories and organizations to BitQuery, please contact the creators of BitQuery:
+https://github.com/orgs/bemined/people .
