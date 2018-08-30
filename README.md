@@ -3,7 +3,7 @@
 [BitQuery](http://bitquery.de) is a **GitHub API driven and D3 based search engine for open source repositories**.
 
 ## Description
-[BitQuery](http://bitquery.de) pursues two main objectives:
+[BitQuery](http://bitquery.de) pursues three main objectives:
 
 - (I) Query the repository metadata via text mining and clustering methods, thus providing an automatic categorization system for software developers
 - (II) Establish visual data exploration and topic driven navigation of GitHub repositories for more transparency in source code management
