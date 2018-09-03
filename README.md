@@ -23,13 +23,14 @@ Visual Analytics layouts of [BitQuery](http://bitquery.de) include:
 - [HCA Multilevel Edition](http://bitquery.de/hca) (Beta (but working) version for various CRAN and Organizations data sets)
 - [Data Projector Edition](http://bitquery.de/dp) (experimental Three.js Visualization)
 
-## Presentation of BitQuery at DSSV 2017
+## Introduction
+
+- [BitQuery Intro](BitQueryIntro.pdf)
+
+## First presentation of BitQuery at DSSV 2017
 
 Presentation of [BitQuery](http://bitquery.de) at [Data Science, Statistics & Visualization Conference 2017, Lisbon, Portugal](http://iasc-isi.org/dssv2017/):
-
-- [BitQuery Abstract](dssv2017_abstract.pdf)
 - [BitQuery Slides](dssv2017_talk.pdf)
-
 
 ## Citing BitQuery
 
